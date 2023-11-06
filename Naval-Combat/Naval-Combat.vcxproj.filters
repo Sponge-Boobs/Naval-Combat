@@ -18,9 +18,15 @@
     <ClCompile Include="Naval-Combat.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Logic.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Includes.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Logic.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

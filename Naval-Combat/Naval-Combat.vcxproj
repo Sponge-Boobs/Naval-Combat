@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Logic.cpp" />
     <ClCompile Include="Naval-Combat.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Includes.h" />
+    <ClInclude Include="Logic.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
